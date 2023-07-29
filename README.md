@@ -2,7 +2,7 @@
 ***
 This website application is made to use on the localhost by following the following steps:-
 <br>
--> Start with starting the creation of the database (passwordmanager) and then inside the database create the table (passwords) having columns
+-> Start with starting the creation of the database (passwordmanager) and then inside the database create the table (passwords)   having columns
 (id, password, title, iv).
 <br>
 -> Redirect the terminal to the server folder and type "npm start".
