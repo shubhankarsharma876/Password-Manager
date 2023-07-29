@@ -21,7 +21,7 @@ This website application is made to use on the localhost by following the follow
 -> MySQL
 
 ***
-Screenshots
+# Screenshots
 
 ### Frontend
 <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/Password-Manager/main/Screenshot 2023-07-29 220641.png">
