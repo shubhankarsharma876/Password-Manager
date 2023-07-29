@@ -24,8 +24,8 @@ This website application is made to use on the localhost by following the follow
 Screenshots
 
 ### Frontend
-<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/passwordmanager/main/Screenshot 2023-07-29 220641.png">
+<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/Password-Manager/main/Screenshot 2023-07-29 220641.png">
 
 ### Backend
-<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/passwordmanager/main/backend.png">
+<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/Password-Manager/main/backend.png">
 ***
